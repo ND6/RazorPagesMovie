@@ -344,4 +344,4 @@ healthchecksdb
 # yanpengfei add IC.User  DJ.Log
 !IC.User
 !DJ.Log
-logs*.txt
+logs[0-9]*.txt
